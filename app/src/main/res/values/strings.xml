@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="emc_pozdrawia">EMC Pozdrawia</string>
+
+    <string-array name="Usluga">
+        <item>Assistance</item>
+        <item>Blacharz</item>
+        <item>Elektryk</item>
+        <item>Lakiernik</item>
+        <item>Wymiana opon</item>
+        <item>Silnik/skrzynia</item>
+        <item>Skup złomu</item>
+        <item>Zawieszenie</item>
+    </string-array>
+
+    <string-array name="Assistance">
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+        <item>Pomoc drogowa 24h</item>
+        <item>Szwagier z lawetą</item>
+    </string-array>
+
+    <string-array name="Blacharz">
+        <item>Blachotrapez</item>
+        <item>Zbychu - ul.Długa 199</item>
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+    </string-array>
+
+    <string-array name="Elektryk">
+        <item>Nikola Tesla Sp.z o.o. - Al.Górników 3</item>
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+        <item>Zakład Voltoamper - Grodzisk Maz. (wjazd bramą 1 a wyjazd bramą 2)</item>
+    </string-array>
+
+    <string-array name="Lakiernik">
+        <item>Szprej - Castorama Al.Krakowska 75</item>
+        <item>Zbychu - ul.Długa 199</item>
+        <item>Lakiernia Kowalscy - ul.Póławzka 123</item>
+    </string-array>
+
+    <string-array name="Opony">
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+        <item>Somsiad z podnośnikiem</item>
+        <item>Serwis opon - ul. centrum 8a</item>
+        <item>ASO Audi</item>
+        <item>BestAuto - ul. Mymłuna 69x</item>
+    </string-array>
+
+    <string-array name="Silnik">
+        <item>ASO Audi</item>
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+        <item>Pan Ziutek - ul.Za winklem</item>
+        <item>Zakład Voltoamper - Grodzisk Maz. (wjazd bramą 1 a wyjazd bramą 2)</item>
+    </string-array>
+
+    <string-array name="Skup">
+        <item>Skup metali kolorowych - Jutrzenki 117b</item>
+        <item>Auto Szrot - ul. Garbatajakcholera 322b/328c</item>
+    </string-array>
+
+    <string-array name="Zawieszenie">
+        <item>ASO Audi</item>
+        <item>Pan Ziutek - ul.Za winklem</item>
+        <item>BestAuto - ul. Mymłuna 69x</item>
+        <item>Super garaż - ul.ćwiatki 3/4</item>
+        <item>Zbychu - ul.Długa 199</item>
+    </string-array>
+
+    <string-array name="Co_array">
+        <item>Test</item>
+        <item>test</item>
+    </string-array>
+
+    <string-array name="Gdzie_Array">
+        <item>Zakład Voltoamper - Grodzisk Maz. (wjazd bramą 1 a wyjazd bramą 2)</item>
+        <item>Auto Szrot - ul. Garbatajakcholera 322b/328c</item>
+    </string-array>
+    <string name="title_activity_wpisy">WpisyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_teeeee">TEEEEE</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>

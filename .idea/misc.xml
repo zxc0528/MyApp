@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable-v24/spinner_lista1_down.xml" value="0.3648148148148148" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/add_button.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/car_skrzynia.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/gradient_background.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/rightmaterialdesign.xml" value="0.35648148148148145" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/drawable/spinner_lista1_up.xml" value="1.23125" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.344140625" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_choise.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_delete.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_fullscreen.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_login.xml" value="0.27870370370370373" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.3055555555555556" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_teeeee.xml" value="0.29259259259259257" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_wpisy.xml" value="0.33" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/color_spinner_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/colored_spinner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/content_teeeee.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/ithem_lista1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/przyklad_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/recucle.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/recycleview.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/spinner_lista1_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/wpis_example.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/layout/wpisy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AndroidStudioProjects/MyApp/app/src/main/res/menu/what_delete.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Mateusz/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

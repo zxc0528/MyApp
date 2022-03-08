@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChoiseActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/engine_start"
+        android:alpha=".5">
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints">
+
+
+        <TextView
+            android:id="@+id/umow_wizyte"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient_background"
+            android:gravity="center"
+            android:text="Umów wizytę:"
+            android:textColor="@color/color_background"
+            android:textSize="33sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinner_lista1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/umow_wizyte"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/color_button"
+            android:gravity="center"
+            android:textSize="30sp" />
+
+        <Spinner
+            android:id="@+id/spinner_lista2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_below="@+id/spinner_lista1"
+            android:gravity="center"
+            android:background="@color/color_button"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/wizyta"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spinner_lista2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/gradient_background"
+            android:onClick="OkClick"
+            android:text="Potwierdź"
+            android:textColor="@color/color_background"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true">
+
+            <Button
+                android:id="@+id/history"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/gradient_background"
+                android:onClick="HistoryClick"
+                android:text="Historia napraw"
+                android:textColor="@color/color_background"
+                android:textSize="16sp"
+                android:textStyle="bold|italic" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
