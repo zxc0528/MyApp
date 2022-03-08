@@ -19,7 +19,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-
 public class ChoiseActivity extends AppCompatActivity  {
     private Spinner spinerlista1, spinerlista2;
     ArrayList<String> listawyboru1;
